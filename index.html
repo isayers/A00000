@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eresults</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+        }
+        .iframe-container {
+            position: relative;
+            width: 100%;
+            height: 100%;
+        }
+        .iframe-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+        .download-button {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="iframe-container">
+        <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3T84gj-vaMscfzf-vfM9DcLadqDTkPuxsTJUcv6K127LiDtzmQ87R5shf5_qRKENxXGpJ4_0956S1/pubhtml?widget=true&headers=false"></iframe>
+        <button class="download-button" onclick="downloadIframeContent()">Download</button>
+    </div>
+
+    <script>
+        function downloadIframeContent() {
+            const iframeSrc = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3T84gj-vaMscfzf-vfM9DcLadqDTkPuxsTJUcv6K127LiDtzmQ87R5shf5_qRKENxXGpJ4_0956S1/pubhtml?widget=true&headers=false";
+            const link = document.createElement('a');
+            link.href = iframeSrc;
+            link.download = 'spreadsheet.html';
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        }
+    </script>
+</body>
+</html>
