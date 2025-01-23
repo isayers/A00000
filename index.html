@@ -9,17 +9,25 @@
             margin: 0;
             padding: 0;
             height: 100%;
-            overflow: auto; /* Changed from hidden to auto */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            transform-origin: center center;
+        }
+        .page-container {
+            width: 1200px;
+            height: 800px;
+            position: relative;
+            margin: 0 auto;
         }
         .iframe-container {
-            position: relative;
+            position: absolute;
+            top: 0;
+            left: 0;
             width: 100%;
             height: 100%;
         }
         .iframe-container iframe {
-            position: absolute;
-            top: 0;
-            left: 0;
             width: 100%;
             height: 100%;
             border: none;
@@ -38,8 +46,10 @@
     </style>
 </head>
 <body>
-    <div class="iframe-container">
-        <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3T84gj-vaMscfzf-vfM9DcLadqDTkPuxsTJUcv6K127LiDtzmQ87R5shf5_qRKENxXGpJ4_0956S1/pubhtml?widget=true&headers=false"></iframe>
+    <div class="page-container">
+        <div class="iframe-container">
+            <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3T84gj-vaMscfzf-vfM9DcLadqDTkPuxsTJUcv6K127LiDtzmQ87R5shf5_qRKENxXGpJ4_0956S1/pubhtml?widget=true&headers=false"></iframe>
+        </div>
         <button class="download-button" onclick="downloadIframeContent()">Download</button>
     </div>
 
