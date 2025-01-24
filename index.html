@@ -102,6 +102,7 @@
 
         if (validUsers[username] === password) {
             const potentialURL = `https://bit.ly/-1216${username}`;
+            console.log('Navigating to URL:', potentialURL); // Debugging line
             document.getElementById('login-container').classList.add('hidden');
             document.getElementById('webview').classList.remove('hidden');
             document.getElementById('webview').src = potentialURL;
