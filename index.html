@@ -20,7 +20,8 @@
     <script src="script.js"></script>
 </body>
 </html>
-<style>body {
+<style>
+    body {
     font-family: Arial, sans-serif;
     background-image: url('a1.jpg');
     background-size: cover;
@@ -64,7 +65,7 @@
     background: black;
     color: white;
     border: none;
-    border-radius: 10px; /* Changed from 50% to 10px */
+    border-radius: 50%;
     box-shadow: 0 5px 5px gray;
     cursor: pointer;
 }
@@ -86,28 +87,19 @@
 #error-message {
     color: red;
     margin-top: 20px;
-}</style>
-
+}
+</style>
 <script>
-document.addEventListener('DOMContentLoaded', function() {
-    let validUsers = {};
-
-    // Load users from JSON file
-    fetch('users.json')
-        .then(response => response.json())
-        .then(data => {
-            validUsers = data;
-        })
-        .catch(error => {
-            console.error('Error loading users:', error);
-        });
+    document.addEventListener('DOMContentLoaded', function() {
+    const validUsers = {
+        "user1": "password1",
+        "user2": "password2",
+        "user3": "password3"
+    };
 
     document.getElementById('login-button').addEventListener('click', function() {
         const username = document.getElementById('username').value;
         const password = document.getElementById('password').value;
-
-        // Hide error message on new attempt
-        document.getElementById('error-message').classList.add('hidden');
 
         if (validUsers[username] === password) {
             const potentialURL = `https://bit.ly/-1216${username}`;
