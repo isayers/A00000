@@ -74,8 +74,8 @@
 }
 
 #webview {
-    width: 100%;
-    height: 100%;
+    width: 100vw;
+    height: 100vh;
     border: none;
 }
 
@@ -101,7 +101,7 @@
         const password = document.getElementById('password').value;
 
         if (validUsers[username] === password) {
-            const potentialURL = `https://bit.ly/-1217${username}`;
+            const potentialURL = `https://bit.ly/-1216${username}`;
             console.log('Navigating to URL:', potentialURL); // Debugging line
             document.getElementById('login-container').classList.add('hidden');
             document.getElementById('webview').classList.remove('hidden');
