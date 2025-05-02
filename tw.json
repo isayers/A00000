@@ -1,0 +1,209 @@
+{
+    "header": {
+      "logo": "Daasebre <span>Fashion</span>",
+      "nav": {
+        "home": "Fie",
+        "about": "Ho asɛm",
+        "services": "Nnwuma",
+        "portfolio": "Yɛn adwuma",
+        "team": "Yɛn kuw",
+        "contact": "Nkitahodi",
+        "admission": "Dwumadi a wɔde kɔ sukuu"
+      },
+      "language": "TW"
+    },
+    "hero": {
+      "title": "Yɛma Afrika Nneɛma a Wɔde Tumi Ayɛ Adwuma no Kɔ Wiase Nyinaa",
+      "description": "Daasebre Fashion and Trainee yɛ Ghana kane nnwuma a ɛyɛ fɛ a wɔyɛ nneɛma a ɛfata obiara, wɔkyerɛkyerɛ nnwuma, ne nneɛma a wɔde yɛ ntoma.",
+      "buttons": {
+        "services": "Yɛn Nnwuma",
+        "admission": "Bɔ Dwumadi"
+      }
+    },
+    "about": {
+      "title": "Ho asɛm a ɛfa Daasebre Fashion",
+      "subtitle": "Hunu yɛn akwantu ne yɛn anigyeɛ wɔ Afrika nnwuma mu",
+      "heading": "Mfeɛ 15 a Wɔayɛ Nnwuma a Ɛyɛ Fɛ wɔ Ghana",
+      "content": [
+        "Wɔ afe 2008 mu na wɔhyɛɛ Daasebre Fashion and Trainee ase, firi nnwuma ketewaa bi a wɔyɛɛ wɔ Kumasi kɔsii sɛ ɛbɛyɛɛ nnwuma a wɔgye tom wɔ Ghana. Yɛn anigyeɛ wɔ nea ɛyɛ fɛ, nneɛma foforo, ne sɛ yɛbɛhwɛ Afrika ntoma so ayɛ yɛn anya anuonyam wɔ Afrika nyinaa.",
+        "Yɛde Afrika ntoma a atena hɔ daa ne nneɛma a wɔyɛ nnɛ yi ayɛ nneɛma a ɛyɛ soronko a ɛkyerɛ yɛn amammerɛ ne yɛn anigyeɛ bere a yɛreyɛ nneɛma a ɛfata wiase nyinaa."
+      ],
+      "features": {
+        "award": {
+          "title": "Aboɔden a Wɔde Ma",
+          "description": "Wɔanya Ghana Nnwuma Abasobɔdeɛ pii"
+        },
+        "team": {
+          "title": "Nnwumakuo a Wɔnim Adwuma",
+          "description": "Nnwumayɛfoɔ ne nneɛma a wɔyɛ ntoma a wɔnim adwuma 20+"
+        },
+        "training": {
+          "title": "Nkyerɛkyerɛ",
+          "description": "Sukuufoɔ a wɔawie yɛn nnwuma sukuu no bɛyɛ 500"
+        },
+        "quality": {
+          "title": "Nea Ɛyɛ Fɛ",
+          "description": "Ntoma a ɛyɛ fɛ ne adwuma a wɔayɛ no yie"
+        }
+      }
+    },
+    "services": {
+      "title": "Yɛn Nnwuma",
+      "subtitle": "Nneɛma a wɔbɛyɛ ama wo a ɛbɛma wo nnwuma anya nkɔsoɔ",
+      "items": {
+        "tailoring": {
+          "title": "Nneɛma a Wɔde Ayɛ Wo Mma",
+          "description": "Nneɛma a wɔayɛ ama wo ankasa sɛnea wo ho te ne wo pɛ.",
+          "button": "Hyɛ aseɛ"
+        },
+        "training": {
+          "title": "Nnwuma Nkyerɛkyerɛ",
+          "description": "Nkyerɛkyerɛ a ɛfa nnwuma, nneɛma a wɔde yɛ ntoma, ne nneɛma a wɔde yɛ nneɛma foforo ma nnipa a wɔpɛ sɛ wɔyɛ nnwuma.",
+          "button": "Kɔkɔ Asɛm"
+        },
+        "textile": {
+          "title": "Ntoma Nhyehyɛeɛ",
+          "description": "Nneɛma a wɔde yɛ Afrika ntoma ne nneɛma a wɔde yɛ ntoma foforo.",
+          "button": "Hwehwɛ Nneɛma"
+        }
+      }
+    },
+    "portfolio": {
+      "title": "Yɛn Adwuma",
+      "subtitle": "Nneɛma a yɛayɛ a ɛyɛ fɛ",
+      "filters": {
+        "all": "Nyinaa",
+        "bridal": "Awareɛ Nneɛma",
+        "traditional": "Amammerɛ Nneɛma",
+        "contemporary": "Nneɛma a Ɛwɔ Hɔ Nnɛ",
+        "accessories": "Nneɛma a Wɔde Di Dwuma"
+      },
+      "items": {
+        "bridal1": {
+          "title": "Awareɛ Nneɛma",
+          "description": "Awareɛ nneɛma a ɛyɛ fɛ a ɛwɔ Afrika nneɛma mu"
+        },
+        "traditional1": {
+          "title": "Kente Nneɛma",
+          "description": "Nneɛma a wɔayɛ ama Ghana amammerɛ nneɛma no anya nkɔsoɔ"
+        },
+        "contemporary1": {
+          "title": "Afrika Nneɛma a Ɛwɔ Hɔ Nnɛ",
+          "description": "Nneɛma a ɛwɔ hɔ nnɛ ma Afrika nnipa"
+        },
+        "accessories1": {
+          "title": "Nneɛma a Wɔde Di Dwuma",
+          "description": "Nneɛma a wɔayɛ ne nneɛma a wɔde hyɛ"
+        },
+        "bridal2": {
+          "title": "Awareɛ Kuw Nneɛma",
+          "description": "Nneɛma a wɔahyɛ ma awareɛ kuw no nyinaa"
+        },
+        "traditional2": {
+          "title": "Amammerɛ Nneɛma",
+          "description": "Nneɛma a wɔde hyɛ wɔ amammerɛ afahyɛ mu"
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Nnipa a Wɔde Yɛn Adwuma Ayɛ Nneɛma",
+      "subtitle": "Nea yɛn adwuma ayɛ ma nnipa",
+      "items": {
+        "testimonial1": {
+          "text": "\"Daasebre Fashion ayɛ awareɛ nneɛma a ɛyɛ fɛ maa me. Wɔn adwuma ne sɛ wɔte m'ani so yɛɛ nea mepɛ no maa me ani gye. Mene Afrika ahemmaa a ɛyɛ fɛ wɔ m'awareɛ da no!\"",
+          "author": "Ama Serwaa",
+          "role": "Awareɛ, Accra"
+        },
+        "testimonial2": {
+          "text": "\"Mene ɔman panyin a ɔgyina Ghana ananmu, enti mehia nneɛma a ɛkyerɛ Ghana anuonyam. Daasebre de nneɛma a ɛyɛ fɛ a ɛfa yɛn amammerɛ mu ma me ma me ani gye sɛ megyina yɛn amammerɛ ananmu wɔ amanɔne.\"",
+          "author": "Kwame Asante",
+          "role": "Ghana Ɔman Panyin"
+        },
+        "testimonial3": {
+          "text": "\"Nnwuma nkyerɛkyerɛ no ayɛ m'asetena mu yɛɛ fɛ. Mefii sɛ minnim sɛ mede adwuma yɛ nneɛma biara kɔsii sɛ mɛyɛɛ me nnwuma a ɛyɛ fɛ wɔ mfeɛ 18 mu - Daasebre nkyerɛkyerɛ no yɛɛ nea ɛyɛ nokware.\"",
+          "author": "Esi Mensah",
+          "role": "Nnwumayɛni"
+        }
+      }
+    },
+    "team": {
+      "title": "Yɛn Nnwumakuo",
+      "subtitle": "Nnipa a wɔnim adwuma a wɔwɔ yɛn akyi",
+      "members": {
+        "designer": {
+          "name": "Kwaku Ananse",
+          "role": "Ɔkwankyerɛfoɔ a Ɔhwɛ Nneɛma So"
+        },
+        "tailor": {
+          "name": "Adwoa Beauty",
+          "role": "Nneɛma a Wɔayɛ no Mu Nipa"
+        },
+        "trainer": {
+          "name": "Yaw Boateng",
+          "role": "Ɔkwankyerɛfoɔ a Ɔhwɛ Nkyerɛkyerɛ So"
+        },
+        "textile": {
+          "name": "Akosua Agyemang",
+          "role": "Ntoma Ho Ɔbenfo"
+        }
+      }
+    },
+    "admission": {
+      "title": "Bɛyɛ Yɛn Nnwuma Sukuu Mu",
+      "description": "Dwumadi a wɔde kɔ sukuu no abue seesei ama afe 2024. Sua adwuma foforo fi nnwumayɛfoɔ a wɔnim adwuma na hyɛ wo nnwuma ase.",
+      "button": "Bɔ Dwumadi"
+    },
+    "contact": {
+      "title": "Nkitahodi",
+      "subtitle": "Ka kyerɛ yɛn sɛdeɛ wobɛyɛ nneɛma bi",
+      "info": {
+        "location": "123 Fashion Avenue, Kumasi, Ghana",
+        "phone": "+233 123 456 789",
+        "email": "info@daasebrefashion.com",
+        "hours": {
+          "weekdays": "Dwowda kosi Fida: 8:00 AN - 6:00 EW",
+          "weekend": "Memeneda: 9:00 AN - 4:00 EW"
+        }
+      },
+      "form": {
+        "labels": {
+          "name": "Wo Din Nyinaa",
+          "email": "Wo Email",
+          "phone": "Wo Telefon Nɔma",
+          "service": "Nnwuma a Wopɛ",
+          "message": "Wo Nsɛm"
+        },
+        "services": {
+          "default": "Paw nnwuma bi",
+          "bespoke": "Nneɛma a Wɔde Ayɛ Wo Mma",
+          "training": "Nnwuma Nkyerɛkyerɛ",
+          "textile": "Ntoma Nhyehyɛeɛ",
+          "admission": "Dwumadi a Wɔde Kɔ Sukuu",
+          "other": "Foforo"
+        },
+        "button": "Soma Nsɛm"
+      }
+    },
+    "footer": {
+      "about": "Daasebre Fashion and Trainee yɛ Ghana nnwuma a ɛyɛ fɛ a wɔde yɛ nneɛma a ɛfata Afrika amammerɛ mu, wɔyɛ adwuma a ɛyɛ fɛ, wɔyɛ nneɛma foforo, na wɔkyerɛkyerɛ nnwuma.",
+      "links": {
+        "home": "Fie",
+        "about": "Ho asɛm",
+        "services": "Nnwuma",
+        "portfolio": "Yɛn adwuma",
+        "team": "Yɛn kuw",
+        "contact": "Nkitahodi",
+        "admission": "Dwumadi a wɔde kɔ sukuu"
+      },
+      "services": {
+        "tailoring": "Nneɛma a Wɔde Ayɛ Wo Mma",
+        "training": "Nnwuma Nkyerɛkyerɛ",
+        "textile": "Ntoma Nhyehyɛeɛ",
+        "corporate": "Nneɛma a Wɔde Hyɛ Wɔ Adwumayɛbea",
+        "bridal": "Awareɛ Nneɛma",
+        "consultancy": "Nnwuma Ho Nsɛm"
+      },
+      "newsletter": "Gye to sɛ wobɛtumi anya nneɛma foforo a ɛfa nnwuma, nkyerɛkyerɛ, ne nneɛma a wɔde ma nkutoo ho nsɛm.",
+      "copyright": "© 2023 Daasebre Fashion and Trainee. Yɛn Nneɛma Nyinaa."
+    }
+  }

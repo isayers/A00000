@@ -1,0 +1,209 @@
+{
+    "header": {
+      "logo": "Daasebre <span>Fashion</span>",
+      "nav": {
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "portfolio": "Portfolio",
+        "team": "Team",
+        "contact": "Contact",
+        "admission": "Admission"
+      },
+      "language": "EN"
+    },
+    "hero": {
+      "title": "Elevating African Fashion to Global Standards",
+      "description": "Daasebre Fashion and Trainee is Ghana's premier fashion house specializing in bespoke designs, fashion training, and textile innovation.",
+      "buttons": {
+        "services": "Our Services",
+        "admission": "Apply Now"
+      }
+    },
+    "about": {
+      "title": "About Daasebre Fashion",
+      "subtitle": "Discover our journey and commitment to excellence in African fashion",
+      "heading": "15 Years of Fashion Excellence in Ghana",
+      "content": [
+        "Founded in 2008, Daasebre Fashion and Trainee has grown from a small tailoring shop in Kumasi to one of Ghana's most respected fashion houses. Our commitment to quality, innovation, and preserving African textile heritage has earned us recognition across the continent.",
+        "We combine traditional African fabrics with contemporary designs to create unique pieces that celebrate our cultural heritage while meeting global fashion standards."
+      ],
+      "features": {
+        "award": {
+          "title": "Award Winning",
+          "description": "Multiple Ghana Fashion Awards recipient"
+        },
+        "team": {
+          "title": "Expert Team",
+          "description": "20+ professional designers and tailors"
+        },
+        "training": {
+          "title": "Training",
+          "description": "Over 500 graduates from our fashion academy"
+        },
+        "quality": {
+          "title": "Quality",
+          "description": "Premium fabrics and meticulous craftsmanship"
+        }
+      }
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "Comprehensive fashion solutions tailored to your needs",
+      "items": {
+        "tailoring": {
+          "title": "Bespoke Tailoring",
+          "description": "Custom-made clothing designed specifically for your body measurements and personal style preferences.",
+          "button": "Get Started"
+        },
+        "training": {
+          "title": "Fashion Training",
+          "description": "Comprehensive courses in design, tailoring, and textile arts for aspiring fashion professionals.",
+          "button": "Learn More"
+        },
+        "textile": {
+          "title": "Textile Design",
+          "description": "Custom African print creation and fabric dyeing services for unique textile solutions.",
+          "button": "Explore Options"
+        }
+      }
+    },
+    "portfolio": {
+      "title": "Our Portfolio",
+      "subtitle": "Showcase of our exceptional fashion creations",
+      "filters": {
+        "all": "All",
+        "bridal": "Bridal",
+        "traditional": "Traditional",
+        "contemporary": "Contemporary",
+        "accessories": "Accessories"
+      },
+      "items": {
+        "bridal1": {
+          "title": "Bridal Collection",
+          "description": "Elegant wedding dresses with African influences"
+        },
+        "traditional1": {
+          "title": "Kente Collection",
+          "description": "Modern interpretations of traditional Ghanaian attire"
+        },
+        "contemporary1": {
+          "title": "Urban African",
+          "description": "Contemporary designs for the modern African"
+        },
+        "accessories1": {
+          "title": "Accessory Line",
+          "description": "Handcrafted jewelry and fashion accessories"
+        },
+        "bridal2": {
+          "title": "Bridal Party",
+          "description": "Coordinated outfits for wedding parties"
+        },
+        "traditional2": {
+          "title": "Ceremonial Wear",
+          "description": "Outfits for traditional ceremonies and festivals"
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Client Testimonials",
+      "subtitle": "What our clients say about our services",
+      "items": {
+        "testimonial1": {
+          "text": "\"Daasebre Fashion created the most beautiful wedding dress for me. Their attention to detail and understanding of my vision was exceptional. I felt like a true African queen on my special day!\"",
+          "author": "Ama Serwaa",
+          "role": "Bride, Accra"
+        },
+        "testimonial2": {
+          "text": "\"As a diplomat, I need outfits that represent Ghana with dignity and style. Daasebre consistently delivers impeccable traditional wear that makes me proud to represent our culture abroad.\"",
+          "author": "Kwame Asante",
+          "role": "Ghanaian Diplomat"
+        },
+        "testimonial3": {
+          "text": "\"The fashion training program transformed my life. From having basic sewing skills to running my own fashion label in just 18 months - Daasebre's mentorship was invaluable.\"",
+          "author": "Esi Mensah",
+          "role": "Fashion Entrepreneur"
+        }
+      }
+    },
+    "team": {
+      "title": "Our Creative Team",
+      "subtitle": "The talented individuals behind our success",
+      "members": {
+        "designer": {
+          "name": "Kwaku Ananse",
+          "role": "Lead Designer"
+        },
+        "tailor": {
+          "name": "Adwoa Beauty",
+          "role": "Master Tailor"
+        },
+        "trainer": {
+          "name": "Yaw Boateng",
+          "role": "Head of Training"
+        },
+        "textile": {
+          "name": "Akosua Agyemang",
+          "role": "Textile Specialist"
+        }
+      }
+    },
+    "admission": {
+      "title": "Join Our Fashion Academy",
+      "description": "Applications are now open for our 2024 intake. Learn from industry experts and kickstart your fashion career with our comprehensive training programs.",
+      "button": "Apply Now"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "subtitle": "Get in touch for inquiries or to schedule a consultation",
+      "info": {
+        "location": "123 Fashion Avenue, Kumasi, Ghana",
+        "phone": "+233 123 456 789",
+        "email": "info@daasebrefashion.com",
+        "hours": {
+          "weekdays": "Monday - Friday: 8:00 AM - 6:00 PM",
+          "weekend": "Saturday: 9:00 AM - 4:00 PM"
+        }
+      },
+      "form": {
+        "labels": {
+          "name": "Full Name",
+          "email": "Email Address",
+          "phone": "Phone Number",
+          "service": "Service Interested In",
+          "message": "Your Message"
+        },
+        "services": {
+          "default": "Select a service",
+          "bespoke": "Bespoke Tailoring",
+          "training": "Fashion Training",
+          "textile": "Textile Design",
+          "admission": "Academy Admission",
+          "other": "Other"
+        },
+        "button": "Send Message"
+      }
+    },
+    "footer": {
+      "about": "Daasebre Fashion and Trainee is a premier Ghanaian fashion house dedicated to elevating African fashion through quality craftsmanship, innovative design, and comprehensive training programs.",
+      "links": {
+        "home": "Home",
+        "about": "About Us",
+        "services": "Services",
+        "portfolio": "Portfolio",
+        "team": "Our Team",
+        "contact": "Contact",
+        "admission": "Admission"
+      },
+      "services": {
+        "tailoring": "Bespoke Tailoring",
+        "training": "Fashion Training",
+        "textile": "Textile Design",
+        "corporate": "Corporate Wear",
+        "bridal": "Bridal Collections",
+        "consultancy": "Fashion Consultancy"
+      },
+      "newsletter": "Subscribe to our newsletter for the latest fashion trends, training programs, and exclusive offers.",
+      "copyright": "© 2023 Daasebre Fashion and Trainee. All Rights Reserved."
+    }
+  }
